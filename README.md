@@ -2,7 +2,7 @@
 
 ## Overview
 
-A stock trading bot that uses machine learning to make price predictions. Forked from yacoubb.
+Google Cloud Course - using a stock trading AI Forked from yacoubb.
 
 ## Requirements
 
